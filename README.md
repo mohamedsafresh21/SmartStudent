@@ -1,0 +1,2 @@
+# SmartStudent
+SmartStudent Management System
